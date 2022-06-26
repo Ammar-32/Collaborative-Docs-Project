@@ -5,3 +5,9 @@ The project is designed as a React application using NodeJS / async js and Mongo
 # Install before running:
 - MongoDB
 - Node JS
+
+# How to run the client and server
+1.	Open a new terminal in client folder
+2.	Type npm run start
+3.	Open another terminal in server folder
+4.	Type npm run devStart
