@@ -13,12 +13,12 @@ The project is designed as a React application using NodeJS / async js and Mongo
 4.	Type npm run devStart
 
 # Client dependencies
-•	npm i quill
-•	npm i socket.io-client
-•	npm i react-router-dom
-•	npm i uuid
+- npm i quill
+- npm i socket.io-client
+- npm i react-router-dom
+- npm i uuid
 
 # Server dependencies
-•	npm i socket.io
-•	npm i --save-dev nodemon
-•	npm i- mongoose
+- npm i socket.io
+- npm i --save-dev nodemon
+- npm i- mongoose
