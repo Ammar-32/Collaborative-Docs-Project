@@ -11,3 +11,14 @@ The project is designed as a React application using NodeJS / async js and Mongo
 2.	Type npm run start
 3.	Open another terminal in server folder
 4.	Type npm run devStart
+
+# Client dependencies
+•	npm i quill
+•	npm i socket.io-client
+•	npm i react-router-dom
+•	npm i uuid
+
+# Server dependencies
+•	npm i socket.io
+•	npm i --save-dev nodemon
+•	npm i- mongoose
